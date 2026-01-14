@@ -15,7 +15,11 @@ Build a machine learning model to predict salary
 
 Present insights using an interactive Tableau dashboard
 
-#Tech Stack
+
+
+
+
+--------# Tech Stack
 
 Database: MySQL
 
